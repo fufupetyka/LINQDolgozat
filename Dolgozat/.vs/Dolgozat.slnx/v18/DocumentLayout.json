@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{D2F98210-EE90-E1ED-FA8E-02407EBA8E90}|Dolgozat.csproj|c:\\users\\furuglyas.peter\\desktop\\linq doga\\linqdolgozat\\dolgozat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D2F98210-EE90-E1ED-FA8E-02407EBA8E90}|Dolgozat.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2F98210-EE90-E1ED-FA8E-02407EBA8E90}|Dolgozat.csproj|c:\\users\\furuglyas.peter\\desktop\\linq doga\\linqdolgozat\\dolgozat\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2F98210-EE90-E1ED-FA8E-02407EBA8E90}|Dolgozat.csproj|solutionrelative:games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Games.cs",
+              "DocumentMoniker": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Games.cs",
+              "RelativeDocumentMoniker": "Games.cs",
+              "ToolTip": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Games.cs",
+              "RelativeToolTip": "Games.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-12T07:16:02.466Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +41,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowCUAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-11-12T07:06:06.04Z",
               "EditorCaption": ""
