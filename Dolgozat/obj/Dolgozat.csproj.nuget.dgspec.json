@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\Dolgozat\\Dolgozat.csproj": {}
+    "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Dolgozat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\Dolgozat\\Dolgozat.csproj": {
+    "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Dolgozat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\Dolgozat\\Dolgozat.csproj",
+        "projectUniqueName": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Dolgozat.csproj",
         "projectName": "Dolgozat",
-        "projectPath": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\Dolgozat\\Dolgozat.csproj",
+        "projectPath": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\Dolgozat.csproj",
         "packagesPath": "C:\\Users\\furuglyas.peter\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\Dolgozat\\obj\\",
+        "outputPath": "C:\\Users\\furuglyas.peter\\Desktop\\LINQ DOGA\\LINQDolgozat\\Dolgozat\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

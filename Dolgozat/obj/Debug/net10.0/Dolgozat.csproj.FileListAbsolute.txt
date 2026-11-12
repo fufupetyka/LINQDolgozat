@@ -1,0 +1,16 @@
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.exe
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.deps.json
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.runtimeconfig.json
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.dll
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\bin\Debug\net10.0\Dolgozat.pdb
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.AssemblyInfoInputs.cache
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.AssemblyInfo.cs
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.csproj.CoreCompileInputs.cache
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.sourcelink.json
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.dll
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\refint\Dolgozat.dll
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.pdb
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.genruntimeconfig.cache
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\ref\Dolgozat.dll
+C:\Users\furuglyas.peter\Desktop\LINQ DOGA\LINQDolgozat\Dolgozat\obj\Debug\net10.0\Dolgozat.csproj.Up2Date
